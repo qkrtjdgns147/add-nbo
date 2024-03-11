@@ -1,9 +1,4 @@
-#include <fstream>
-#include <iostream>
-#include <string>
 #include <stdint.h>
-#include <cstdlib>
-#include <cstring>
 #include <stdio.h>
 
 
