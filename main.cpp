@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
 	FILE* fp1 = fopen(argv[1], "rb");	
 	FILE* fp2 = fopen(argv[2], "rb");
 
-	//error : input number & name is not matched
+	//error : input file number or name is not matched
 	if (argc != 3) {
 		printf("Type 2 files to read");
 		return 0;
